@@ -7,18 +7,6 @@
 
   <h3 align="center">Interactive 3D Portfolio Website</h3>
 
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets & Snippets](#links)
-6. 🚀 [More](#more)
-
-## ⚠️ Tutorial
-
-
 ## <a name="introduction">🤖 Introduction</a>
 
 The 3D Portfolio project is a highly engaging personal website that features animated 3D scenes, smooth camera transitions, interactive model showcases, and responsive design. It’s ideal for developers, designers, or freelancers looking to stand out in the digital crowd.
